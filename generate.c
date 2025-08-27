@@ -1,3 +1,11 @@
+
+/*
+
+(c) G7TAJ 2025
+License GPL-3.0 license
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
