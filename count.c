@@ -1,4 +1,11 @@
-	#include <stdio.h>
+/*
+
+(c) G7TAJ 2025
+License GPL-3.0 license
+
+*/
+
+#include <stdio.h>
 #include <stdlib.h>
 
 void printBinary(unsigned int num, int bits) {
